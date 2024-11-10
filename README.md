@@ -6,4 +6,4 @@
 I mostly do client-side code.
 I'm mostly working on mystery projects, not featured on Github, but I will post some things!
 No, I'm not one of those people that only edit on Github open-source projects to get a reputation-I actually care about what I am doing!
-Yes, I'm American! [GodBlessAmericaAnericanFlagGifGIF](https://github.com/user-attachments/assets/61eec561-352c-49f1-82f7-5403ae5ed702)
+Yes, I'm American!
