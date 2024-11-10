@@ -13,3 +13,10 @@ Yeah, my profile picture is indeed grimace.
         <img src="https://media1.tenor.com/images/427b769d9659c9f5dfadbcc42b23145f/tenor.gif?itemid=16706405" alt="GRIMACEEEEEEE" />
     </p>
 </div>
+
+<div align="center">
+    Alright, I guess you guys can see my lame contribution history!
+    <div align="center">
+    <img src="https://raw.githubusercontent.com/CodeMonster240/CodeMonster240/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
+</div>
