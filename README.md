@@ -17,6 +17,6 @@ Yeah, my profile picture is indeed grimace.
 <div align="center">
     Alright, I guess you guys can see my lame contribution history!
     <div align="center">
-    <img src="https://raw.githubusercontent.com/[CodeMonster240]/[CodeMonster240]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeMonster240&theme=github_dark" alt="CodeMonster's GitHub Stats"/>
 </div>
 </div>
