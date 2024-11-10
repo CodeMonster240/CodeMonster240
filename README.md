@@ -7,3 +7,9 @@ I mostly do client-side code.
 I'm mostly working on mystery projects, not featured on Github, but I will post some things!
 No, I'm not one of those people that only edit on Github open-source projects to get a reputation-I actually care about what I am doing!
 Yes, I'm American!
+Yeah, my profile picture is indeed grimace.
+<div align="center">
+    <p>
+        <img src="https://media1.tenor.com/images/427b769d9659c9f5dfadbcc42b23145f/tenor.gif?itemid=16706405" alt="GRIMACEEEEEEE" />
+    </p>
+</div>
